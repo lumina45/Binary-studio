@@ -1,0 +1,8 @@
+{
+  "name": "Aegis Binary Studio",
+  "description": "An interactive, open-source binary decompilation, static malware research, disassemble viewer, and plugin simulator tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
